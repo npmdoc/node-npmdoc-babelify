@@ -3,9 +3,11 @@
 
 [![NPM](https://nodei.co/npm/babelify.png?downloads=true)](https://www.npmjs.com/package/babelify)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-babelify/build/screen-capture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-babelify_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-babelify/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-babelify/build/screenCapture.buildNpmdoc.browser.%2Fhome%2Ftravis%2Fbuild%2Fnpmdoc%2Fnode-npmdoc-babelify%2Ftmp%2Fbuild%2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-babelify/build/apidoc.html)
 
-![package-listing](https://npmdoc.github.io/node-npmdoc-babelify/build/screen-capture.npmPackageListing.svg)
+![npmPackageListing](https://npmdoc.github.io/node-npmdoc-babelify/build/screenCapture.npmPackageListing.svg)
+
+![npmPackageDependencyTree](https://npmdoc.github.io/node-npmdoc-babelify/build/screenCapture.npmPackageDependencyTree.svg)
 
 
 
