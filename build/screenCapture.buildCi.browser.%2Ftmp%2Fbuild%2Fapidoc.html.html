@@ -56,6 +56,15 @@
 
         <li>
 
+            <a class="apidocElementLiA" href="#apidoc.element.babelify.babelify">
+            function <span class="apidocSignatureSpan"></span>babelify
+            <span class="apidocSignatureSpan">(filename, opts)</span>
+            </a>
+
+        </li>
+
+        <li>
+
             <a class="apidocElementLiA" href="#apidoc.element.babelify.configure">
             function <span class="apidocSignatureSpan">babelify.</span>configure
             <span class="apidocSignatureSpan">(opts)</span>
@@ -78,6 +87,28 @@
 
 <div class="apidocSectionDiv">
 <h1><a href="#apidoc.module.babelify" id="apidoc.module.babelify">module babelify</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.babelify.babelify" id="apidoc.element.babelify.babelify">
+        function <span class="apidocSignatureSpan"></span>babelify
+        <span class="apidocSignatureSpan">(filename, opts)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function Babelify(filename, opts) {
+  if (!(this instanceof Babelify)) {
+    return Babelify.configure(opts)(filename);
+  }
+
+  stream.Transform.call(this);
+  this._data = "";
+  this._filename = filename;
+  this._opts = assign({filename: filename}, opts);
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
 
 
     <h2>
