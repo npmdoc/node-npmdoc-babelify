@@ -1,6 +1,6 @@
 # npmdoc-babelify
 
-#### api documentation for  [babelify (v7.3.0)](https://github.com/babel/babelify)  [![npm package](https://img.shields.io/npm/v/npmdoc-babelify.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-babelify) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-babelify.svg)](https://travis-ci.org/npmdoc/node-npmdoc-babelify)
+#### basic api documentation for  [babelify (v7.3.0)](https://github.com/babel/babelify)  [![npm package](https://img.shields.io/npm/v/npmdoc-babelify.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-babelify) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-babelify.svg)](https://travis-ci.org/npmdoc/node-npmdoc-babelify)
 
 #### Babel browserify transform
 
@@ -70,7 +70,8 @@
     "scripts": {
         "test": "tap test/*.js"
     },
-    "version": "7.3.0"
+    "version": "7.3.0",
+    "bin": {}
 }
 ```
 
